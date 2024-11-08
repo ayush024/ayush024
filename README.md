@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aayushdhakal360@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Life is good when I code**
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -44,7 +44,7 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="left" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=ayush024&show_icons=true&locale=en" alt="ayush024"  height="150" />
+<!--   <img  src="https://github-readme-stats.vercel.app/api?username=ayush024&show_icons=true&locale=en" alt="ayush024"  height="150" /> -->
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush024&show_icons=true&locale=en&layout=compact" alt="ayush024" height="150"/>
 </p>
 
