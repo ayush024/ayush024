@@ -16,7 +16,16 @@
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2>Tech Stack</h2>
-<h3>Languages</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+
+![](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgresql,redis,git,typescript,PHP,laravel,&perline=20) 
+
+  </a>
+</p>
+
+<!--<h3>Languages</h3>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -26,7 +35,7 @@
 <p>
      <img src="https://img.shields.io/badge/Next%20JS-20232A?style=for-the-badge&logo=next&logoColor=61DAFB%22%20alt=%22nextjs%22" alt="nextjs" />
      <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-</p>
+</p>-->
 <h3>Other</h3>
 <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
