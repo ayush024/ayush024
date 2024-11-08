@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
 
-![](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgresql,redis,git,typescript,PHP,laravel,&perline=20) 
+![](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgresql,redis,git,typescript,php,laravel&perline=20) 
 
   </a>
 </p>
@@ -55,16 +55,13 @@
 <p align="left" >
 <!--   <img  src="https://github-readme-stats.vercel.app/api?username=ayush024&show_icons=true&locale=en" alt="ayush024"  height="150" /> -->
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush024&show_icons=true&locale=en&layout=compact" alt="ayush024" height="150"/>
-</p>
-
-<p> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush024&" alt="ayush024" height="160" width="max" />
-<p>
+</p>
 
 <!----------------------------------- Profile View Section ------------------------------------>
                                                                                                         
 <p align="left">
-    <a href="https://github.com/bhupi-010">
+    <a href="https://github.com/ayush024">
         <img src="https://komarev.com/ghpvc/?username=ayush024&label=Profile%20views&color=0e75b6&style=flat" alt="ayush024" />
   </a>
     <a href="https://github.com/ayush024?tab=followers">
